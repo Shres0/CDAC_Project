@@ -1,2 +1,2 @@
 # CDAC_Project
-Vehicle Automation using CAN protocol
+COVAS : Collision Avoidance and Vehicle Automation System using CAN protocol
